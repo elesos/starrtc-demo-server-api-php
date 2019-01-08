@@ -15,12 +15,12 @@ if(empty($userid)){
 
 
 
-$secret = 'j9EVqW7Xq7ycxsMcmwNAax3UnMJEX7qt';
+
 $url    = 'https://api.starRTC.com/aec/authKey';
 
 $post_data = array (
 		'appid'  => appid,
-		'secret' => $secret,
+		'secret' => secret,
 		'userid' => $userid		
 );
 

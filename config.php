@@ -11,6 +11,7 @@ $api_config_dir = dirname(__FILE__);
 
 
 define('appid',         'your_appid');//请注册后在星盒后台获取 
+define('secret',        'your_secret');//请注册后在星盒后台获取 
 define('guardToken',    'your_guardToken');      //请注册后在星盒后台获取 
 
 //数据库配置
