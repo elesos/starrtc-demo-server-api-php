@@ -6,7 +6,7 @@ starRTC demo后台api与数据库
 ---
 1，数据库脚本所在目录：sql/starRTC_demo.sql
 
-2，配置config.php，修改appid和guardToken
+2，配置config.php，修改appid,secret和guardToken
 
 3，登录starRTC后台，填上您的aec url
 
@@ -18,7 +18,7 @@ docker run -d -it --name starrtc_demo_server_sdk_php -p 80:80 -p 443:443 starrtc
 ```
 1，进入docker配置nginx，将域名与证书修改成自己的
 
-2，配置config.php，修改appid和guardToken
+2，配置config.php，修改appid,secret和guardToken
 
 3，进入root目录，运行./run.sh启动nginx服务器，MySQL数据库和PHP
 
