@@ -1,4 +1,4 @@
-# starrtc_demo_server_sdk_php
+# starrtc_demo server api for PHP
 
 starRTC demo后台api与数据库
 
