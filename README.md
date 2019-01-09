@@ -23,3 +23,15 @@ docker run -d -it --name starrtc_demo_server_sdk_php -p 80:80 -p 443:443 starrtc
 3，进入root目录，运行./run.sh启动nginx服务器，MySQL数据库和PHP
 
 4，登录[starRTC后台](https://www.starrtc.com/login.html)，填上您的aec url
+
+其它语言：
+
+[Python](https://github.com/starrtc/server-sdk-python)
+
+[Java](https://github.com/starrtc/server-sdk-java)
+
+[Node.js](https://github.com/starrtc/server-sdk-node.js)
+
+[Go](https://github.com/starrtc/server-sdk-go)
+
+[.Net](https://github.com/starrtc/server-sdk-.net)
