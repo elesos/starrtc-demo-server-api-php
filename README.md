@@ -26,12 +26,4 @@ docker run -d -it --name starrtc_demo_server_sdk_php -p 80:80 -p 443:443 starrtc
 
 其它语言：
 
-[Python](https://github.com/starrtc/server-sdk-python)
-
-[Java](https://github.com/starrtc/server-sdk-java)
-
-[Node.js](https://github.com/starrtc/server-sdk-node.js)
-
-[Go](https://github.com/starrtc/server-sdk-go)
-
-[.Net](https://github.com/starrtc/server-sdk-.net)
+https://github.com/starrtc/starrtc-server-api
